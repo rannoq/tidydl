@@ -1,7 +1,7 @@
 # tidydl
 
 Sort a messy Downloads folder into tidy subfolders (Images, Documents, Videos, Archives, Installers...).
-One file, no dependencies, Python 3.8+. Works on Windows and Linux.
+One file, no dependencies, Python 3.12+. Works on Windows and Linux.
 
 It can run once, keep watching the folder, or start automatically when you log in.
 
